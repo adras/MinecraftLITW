@@ -71,7 +71,10 @@ Note the config and mods directories
 * Create a new World
 * Click on More World Options and make sure World Type is set to Biomes 'O Plenty
 
-Have fun
+
+![alt text](https://github.com/adras/MinecraftLITW/raw/main/screenshots/MinecraftMainMenu.png "Minecraft")
+
+
 
 
 
