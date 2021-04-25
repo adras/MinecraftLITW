@@ -1,5 +1,3 @@
-readme.md
-
 Go to https://www.minecraft.net
 
 # Installing Minecraft
@@ -30,31 +28,31 @@ TODO - Google can help
 
 # Installing Live In The Woods
 ## Basic
-    Download: http://www.lifeinthewoods.eu/litwr/repository/client/basic/1.1.5/LifeInTheWoodsRenaissanceClientBasic.zip
-	Alternative 1: http://lifeinthewoods.phedran.com/litwr/repository/client/basic/1.1.5/LifeInTheWoodsRenaissanceClientBasic.zip
-	Alternative 2: http://lifeinthewoods.getitfromhere.co.uk/litwr/repository/client/basic/1.1.5/LifeInTheWoodsRenaissanceClientBasic.zip
+Download: http://www.lifeinthewoods.eu/litwr/repository/client/basic/1.1.5/LifeInTheWoodsRenaissanceClientBasic.zip
+Alternative 1: http://lifeinthewoods.phedran.com/litwr/repository/client/basic/1.1.5/LifeInTheWoodsRenaissanceClientBasic.zip
+Alternative 2: http://lifeinthewoods.getitfromhere.co.uk/litwr/repository/client/basic/1.1.5/LifeInTheWoodsRenaissanceClientBasic.zip
 
 ## Hungry:
-	Download: http://www.lifeinthewoods.eu/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
-	Alternative 1: http://lifeinthewoods.phedran.com/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
-	Alternative 2: http://lifeinthewoods.getitfromhere.co.uk/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
+Download: http://www.lifeinthewoods.eu/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
+Alternative 1: http://lifeinthewoods.phedran.com/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
+Alternative 2: http://lifeinthewoods.getitfromhere.co.uk/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
 
 * Remember the minecraft directory where we just installed forge?
 * Unpack all the files from e.g. LifeInTheWoodsRenaissanceClientBasic.zip into the .minecraft directory
 
 You should get a structure like this:
-.minecraft\config\
-.minecraft\libraries\
-.minecraft\mods\
-.minecraft\versions\
-.minecraft\webcache2\
-.minecraft\launcher_accounts.json
-.minecraft\launcher_cef_log.txt
-.minecraft\launcher_log.txt
-.minecraft\launcher_msa_credentials.json
-.minecraft\launcher_profiles.json
-.minecraft\launcher_settings.json
-.minecraft\launcher_ui_state.json
+	.minecraft\config\
+	.minecraft\libraries\
+	.minecraft\mods\
+	.minecraft\versions\
+	.minecraft\webcache2\
+	.minecraft\launcher_accounts.json
+	.minecraft\launcher_cef_log.txt
+	.minecraft\launcher_log.txt
+	.minecraft\launcher_msa_credentials.json
+	.minecraft\launcher_profiles.json
+	.minecraft\launcher_settings.json
+	.minecraft\launcher_ui_state.json
 
 Note the config and mods directories
 
