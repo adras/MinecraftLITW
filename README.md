@@ -1,7 +1,8 @@
-Go to https://www.minecraft.net
+
+
 
 # Installing Minecraft
-
+* Go to https://www.minecraft.net
 * Log in with your account
 * Click on Games, then Minecraft
 * Click the green Get Minecraft button
@@ -31,8 +32,8 @@ TODO - Google can help
 * Download: http://www.lifeinthewoods.eu/litwr/repository/client/basic/1.1.5/LifeInTheWoodsRenaissanceClientBasic.zip
 * Alternative 1: http://lifeinthewoods.phedran.com/litwr/repository/client/basic/1.1.5/LifeInTheWoodsRenaissanceClientBasic.zip
 * Alternative 2: http://lifeinthewoods.getitfromhere.co.uk/litwr/repository/client/basic/1.1.5/LifeInTheWoodsRenaissanceClientBasic.zip
-
 ## Hungry:
+
 * Download: http://www.lifeinthewoods.eu/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
 * Alternative 1: http://lifeinthewoods.phedran.com/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
 * Alternative 2: http://lifeinthewoods.getitfromhere.co.uk/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
@@ -41,6 +42,7 @@ TODO - Google can help
 * Unpack all the files from e.g. LifeInTheWoodsRenaissanceClientBasic.zip into the .minecraft directory
 
 You should get a structure like this:
+
 	.minecraft\config\
 	.minecraft\libraries\
 	.minecraft\mods\
