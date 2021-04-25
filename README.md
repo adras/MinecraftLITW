@@ -44,6 +44,8 @@ TODO - Google kann helfen
 * Alternative 1: http://lifeinthewoods.phedran.com/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
 * Alternative 2: http://lifeinthewoods.getitfromhere.co.uk/litwr/repository/client/hungry/1.1.5/LifeInTheWoodsRenaissanceClientHungry.zip
 
+![alt text](https://github.com/adras/MinecraftLITW/raw/main/screenshots/ForgeInstaller.png "Forge Installer")
+
 * Erinnerst du dich noch an das Verzeichnis von gerade eben in welches wir Forge installiert haben?
 * Entpacke alle dateien und verzeichnisse von z.B. LifeInTheWoodsRenaissanceClientBasic.zip in das .minecraft Verzeichnis
 
@@ -105,8 +107,11 @@ TODO - Google can help
 * Start setup by double clicking the file you just downloaded. Should work when Java is installed
 * Pro mode: run "java -jar forge-1.7.10-10.13.4.1614-1.7.10-installer.jar" in your download folder from the command line
 
+![alt text](https://github.com/adras/MinecraftLITW/raw/main/screenshots/ForgeInstaller.png "Forge Installer")
+
 * Choose install client - My minecraft directory looks like this: C:\Users\adras\AppData\Roaming\.minecraft
 * Remember that directory, we need it in the next step
+
 
 
 ## Installing Live In The Woods
